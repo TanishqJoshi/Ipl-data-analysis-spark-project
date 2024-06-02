@@ -2,7 +2,7 @@
 <ul>
 <li>Developed a Data Analysis Pipeline Using Apache Spark</li>
 <ul>
-  <li>Designed and implemented a data pipeline to analyze IPL dataset by uploading data to Amazon S3, processing it with Apache Spark in Databricks, and applying business logic transformations.></li>
+  <li>Designed and implemented a data pipeline to analyze IPL dataset by uploading data to Amazon S3, processing it with Apache Spark in Databricks, and applying business logic transformations.</li>
 </ul>
 
 
